@@ -1,0 +1,11 @@
+{
+  "org": "encode",
+  "repo": "requests-async",
+  "versions": [
+    {
+      "commit": "1de1b948a09b1e164b62c3617b6702d266fc94b2",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:57:42.524776+00:00"
+    }
+  ]
+}
